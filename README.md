@@ -4,7 +4,7 @@ Samuel Shatrawka
 
 Jack Rosenblatt and Samuel Shatrawka
 
-https://youtu.be/VEPVKyvwbz0 
+Youtube link: https://youtu.be/VEPVKyvwbz0 
 
 Project Instructions: Our project is just a simple game of Tic Tac Toe that everyone played when they were kids. For this game, a yellow dot in the middle of one of the nine squares represents what box is going to be "marked" with an X or an O. In order to move from one box to another, the user should use the left and right buttons. Once the desired box is marked with the yellow circle, the user should click the top/up button to place on X if they are player one or an O if they are player two. Once one of the two players gets three X's or O's in a row, the screen will show what player has won and the game will need to be reset to play again. If it is a tie, meaning no player got three in a row, a message will appear that says no player won and the game will again need to be reset to play again.
 
